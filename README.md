@@ -1,4 +1,4 @@
-# FreeTiltDrawer
+# Free Tilt Painter
 GG4U@iNTUitionv6
 
 ## Inspiration
@@ -33,5 +33,5 @@ Thirdly, though some of us have experience in Computer Vision and camera calibra
  - Stereo Computer Vision, Camera Intrinsic and Extrinsic, Distortion Matrix
  - How to reduce the latency of a (comparatively) complex system
  - How to divide the work properly
-## What's next for FreeTiltDrawer - An $10 3D Tilt Painter
+## What's next for Free Tilt Painter - An $10 3D Tilt Painter
 We will continue. At least I will continue.
